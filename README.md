@@ -33,5 +33,15 @@
   <a href="https://www.linkedin.com/in/marcos-domingos-dos-santos-a78b24308">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <h2>⚙️  GitHub Analytics</h2>
+
+  <div display="inline"> 
+
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MarcosDomingosS&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="190em" src="[https://github-readme-stats.vercel.app/api?username=MarcosDomingosS&theme=tokyonight&show_icons=true&hide_border=true&count_private=true](https://github-readme-streak-stats.herokuapp.com/?user=MarcosDomingosS&theme=tokyonight&hide_border=true)"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDomingosS&layout=compact&langs_count=7&theme=omni&border_radius=6&hide_border=true"/>
+
+ </div>
 </div>
 
